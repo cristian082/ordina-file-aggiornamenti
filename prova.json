@@ -1,7 +1,7 @@
 {
-  "versione": 101,
-  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v101/OrdinaFile-v101.apk",
-  "sha256": "fa8c8d0cbbc719e14479fb7994a0c79f0a82be2eea68d2905078744b24d65da9",
-  "dimensione": 21228660,
-  "novita": "in cima alla Home le «cose da fare» (backup, spazio da liberare, meme, aggiornamenti) oppure «Tutto a posto»"
+  "versione": 103,
+  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v103/OrdinaFile-v103.apk",
+  "sha256": "3b84ee342f029d87edf8110bcfe18b7201842a2f07e444dada9c6a6fce6a821b",
+  "dimensione": 21235032,
+  "novita": "Impostazioni più semplici, divise in 5 gruppi (Riordino, WhatsApp, Backup, Famiglia, App)"
 }
