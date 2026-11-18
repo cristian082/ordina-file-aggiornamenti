@@ -1,7 +1,7 @@
 {
-  "versione": 103,
-  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v103/OrdinaFile-v103.apk",
-  "sha256": "3b84ee342f029d87edf8110bcfe18b7201842a2f07e444dada9c6a6fce6a821b",
-  "dimensione": 21235032,
-  "novita": "Impostazioni più semplici, divise in 5 gruppi (Riordino, WhatsApp, Backup, Famiglia, App)"
+  "versione": 104,
+  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v104/OrdinaFile-v104.apk",
+  "sha256": "a92519e5ec4f6e8882d97948503f8dcea2cf022ee03263a77face56a390432b1",
+  "dimensione": 21236592,
+  "novita": "nelle Impostazioni «Informazioni» è una voce a parte, fuori dai gruppi"
 }
