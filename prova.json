@@ -1,7 +1,7 @@
 {
-  "versione": 104,
-  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v104/OrdinaFile-v104.apk",
-  "sha256": "a92519e5ec4f6e8882d97948503f8dcea2cf022ee03263a77face56a390432b1",
-  "dimensione": 21236592,
-  "novita": "nelle Impostazioni «Informazioni» è una voce a parte, fuori dai gruppi"
+  "versione": 105,
+  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v105/OrdinaFile-v105.apk",
+  "sha256": "fb001797729b0f6eb4ee659d86d68e83ed17588a4fc89def8a51382778e936a0",
+  "dimensione": 21249508,
+  "novita": "griglia per scegliere le foto da buttare (anche per i meme): tocca per spuntare, tieni premuto per vederla grande"
 }
