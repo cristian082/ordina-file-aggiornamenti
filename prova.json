@@ -1,7 +1,7 @@
 {
-  "versione": 105,
-  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v105/OrdinaFile-v105.apk",
-  "sha256": "fb001797729b0f6eb4ee659d86d68e83ed17588a4fc89def8a51382778e936a0",
-  "dimensione": 21249508,
-  "novita": "griglia per scegliere le foto da buttare (anche per i meme): tocca per spuntare, tieni premuto per vederla grande"
+  "versione": 106,
+  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v106/OrdinaFile-v106.apk",
+  "sha256": "a2d1f984135b72c3c9a55cdf94a46946568a6ac8bc9343aca0a38e7fa101ac16",
+  "dimensione": 21250764,
+  "novita": "quando «Rileggi» trova un avviso, «Aggiungi al calendario» è subito nella finestra"
 }
