@@ -1,7 +1,7 @@
 {
-  "versione": 106,
-  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v106/OrdinaFile-v106.apk",
-  "sha256": "a2d1f984135b72c3c9a55cdf94a46946568a6ac8bc9343aca0a38e7fa101ac16",
-  "dimensione": 21250764,
-  "novita": "quando «Rileggi» trova un avviso, «Aggiungi al calendario» è subito nella finestra"
+  "versione": 107,
+  "apk": "https://github.com/cristian082/ordina-file-aggiornamenti/releases/download/v107/OrdinaFile-v107.apk",
+  "sha256": "f6d4bb64c5f14d29ccfd14a64f3d7ca16eaccb85f43720d1e9e51c5b451ea533",
+  "dimensione": 21258580,
+  "novita": "gli avvisi ora vengono aggiunti davvero al calendario, con promemoria, quando tocchi «Aggiungi»"
 }
